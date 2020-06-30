@@ -127,4 +127,7 @@
 }, {
   "id" : "mod-codex-inventory-1.8.0-SNAPSHOT.80",
   "action" : "enable"
+}, {
+  "id": "mod-marccat-2.2.5",
+  "action": "enable"
 } ]

@@ -68,6 +68,10 @@
     "action": "enable"
   },
   {
+    "id": "folio_marccat-2.0.0",
+    "action": "enable"
+  },
+  {
     "id": "mod-codex-inventory",
     "action": "enable"
   }
